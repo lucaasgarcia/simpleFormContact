@@ -3,7 +3,7 @@
 Form feito para fins de estudos e para o portifolio.
 
 ### Preview
-![preview](/public/images/preview.png "Imagem de Preview")
+![preview](/public/images/Preview.png "Imagem de Preview")
 
 
 ### Passos concluidos
